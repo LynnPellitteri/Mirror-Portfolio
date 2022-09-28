@@ -5,6 +5,9 @@
   font-weight: thick;
 }
 
+
+
+  
 .h3 {
   position: absolute;
   top: 1px;
@@ -45,6 +48,7 @@
   width: 100vw;
   height: 300;
   list-style-type: none;
+  border-bottom: cadetblue;
 }
 
 .footer {
